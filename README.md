@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sven</h1>
 <h3 align="center">A developer from the Netherlands</h3>
 
-![](https://komarev.com/ghpvc/?username=CabinetSeeker42&style=flat-square)
-
 - 🔭 I’m currently working at **HAN University of Applied Sciences**
 
 - 🌱 I’m currently studying at **Three.js**
